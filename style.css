@@ -1,0 +1,63 @@
+.header {
+    background-image: linear-gradient(rgba(63, 150, 200, 0.794),white);
+
+}
+
+#pickupline{
+    font-style: italic;
+    font-family: monospace;
+    font-size: 0.4cm;
+}
+
+.container {
+    text-align: center;
+    margin: 40px;
+    
+}
+
+#sect1 {
+    letter-spacing: 1cm;
+}
+
+#sect2 {
+    letter-spacing: 6cm;
+}
+
+
+#password {
+    text-indent: 1cm;
+}
+
+.bottom{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.signupdata{
+    text-align: center;
+}
+
+.phonedata{
+    text-align: justify;
+}
+
+.update{
+    color: darkcyan;
+}
+
+
+
+.button{
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 13px;
+    cursor: pointer;
+    outline: black;
+    background-color: rgb(20, 49, 214);
+    box-shadow: black;
+}
+.button:hover{
+    background-color: rgb(45, 157, 231);
+    box-shadow: darkgrey;
+    transform: translateY(3px);
+}
